@@ -18,7 +18,7 @@ document.write("<div style='background-color: #bb00fa; border-radius: 200px;'><p
 // no
 alert('¿por qué no?');
 alert("¿porceno los dos?");
-WIE
+
 // S*ck It
 //Neil !!
 document.write('<iframe width="560" height="315" src="https://www.youtube.com/embed/hVdOHMZGwOs" frameborder="0" allow="accelerometer; autoplay;" allowfullscreen></iframe>');
