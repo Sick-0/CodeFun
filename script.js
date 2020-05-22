@@ -21,25 +21,25 @@ prompt('wtf is this'); hello = 'I am sicco and i love beer ';
 
 
 //zatte René
- setInterval(function() {return window.alert = null},200)
-// Ann
-setTimeout(function(){ document.alert("keep on dreaming, Jens!"); }, 500);
+ setInterval(function() {return window.alert= null;},200);
+// Ann 
+setTimeout(function(){ document.alert("you're no cuuuuutiee, jensborg!"); }, 500);
 setTimeout(function(){ document.window.close() }, 3000);
 
 
 //Tim 
 for(i=0;++i<50;console.log(i%5?f||i:f+'buzz'))f=i%3?'':'Fizz';
 
-// Doe Rustig Erick
-class Name {constructor(name){this.name= name;}YourName(){console.log(`${hello}. My name is ${this.name}`)}}const e=new Name('Erick') e.YourName();
+// Doe Rustig Erick ERICK
+class Name {constructor(name){this.name= name;}YourName(){console.log(`${hello}. My name is ${this.name}`)}}const e=new Name('Erick'); e.YourName();
 
 
 // moeti
 alert(hello+" ..... "+sicco);
 
 // 
-// nafets krew deog
+// nafets krew deog ssj
 console.log('difficult code');
 
 //Iri pliz intensifies
-while(true){let i += 1; alert ("quick maths" + i)}
+while(true){let i = 1; alert ("quick maths" + i)}
